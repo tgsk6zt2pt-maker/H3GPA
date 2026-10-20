@@ -1,0 +1,8 @@
+{
+  "species": "maize",
+  "trait_id": "TO:0000316",
+  "trait_name": "photosynthetic capacity",
+  "case_table": "data/case_studies/maize_TO0000316_top12.csv",
+  "top_k": 12,
+  "geometry_example": {"curvature": 0.1}
+}

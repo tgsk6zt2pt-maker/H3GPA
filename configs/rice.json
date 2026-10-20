@@ -1,0 +1,8 @@
+{
+  "species": "rice",
+  "trait_id": "TO:0000456",
+  "trait_name": "spikelet number",
+  "case_table": "data/case_studies/rice_TO0000456_top12.csv",
+  "top_k": 12,
+  "geometry_example": {"curvature": 0.1}
+}
